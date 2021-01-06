@@ -15,6 +15,8 @@ public class Main{
         System.out.println("Imie: "+userName+"\nNazwisko: "+userLastname);
 
         List<String> userAges = new ArrayList<>();
+        userAges.add("Dwanascie");
+        System.out.println(userAges);
     }
 
 }
