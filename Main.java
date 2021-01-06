@@ -17,6 +17,7 @@ public class Main{
         List<String> userAges = new ArrayList<>();
         userAges.add("Dwanascie");
         System.out.println(userAges);
+        System.out.println("test ");
     }
 
 }
